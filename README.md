@@ -17,7 +17,7 @@ Open the application in the browser and enter your desired text below the header
   <p align="right">(<a href="#top">back to top</a>)</p>
 
 Homepage
-![image]("C:\Users\najla\OneDrive\Pictures\Screenshot 2022-04-03 152356.png")
+![image](images_readme/Pic1.png)
 
 Install PWA
-![image](https://user-images.githubusercontent.com/91171412/159835518-75979e17-36e8-4380-9368-deedd0b4ceb1.png)
+![image](images_readme/Install.png)
