@@ -10,13 +10,12 @@ Try it out on Heroku: https://dashboard.heroku.com/apps/code-saver-3000
   
   <p align="right">(<a href="#top">back to top</a>)</p>
   
-  ## Usage
+## Usage
  
-Open the application in the browser and enter your desired text below the header. You text will be saved. To use off-line, click the install button to save the application to the desktop.
+Open the application in the browser and enter your desired text below the header. You text will be saved. To use offline, click the install button to save the application to the desktop.
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 
-Homepage
 ![image](images_readme/Pic1.png)
 
 Install PWA
