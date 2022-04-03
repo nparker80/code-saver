@@ -16,6 +16,7 @@ Open the application in the browser and enter your desired text below the header
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 
+Homepage  
 ![image](images_readme/Pic1.png)
 
 Install PWA
