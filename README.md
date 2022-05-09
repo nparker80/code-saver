@@ -2,7 +2,7 @@
 
 This PWA is a text editor that allows a user to create notes or code snippets with or without an internet connection. The user can then go back to their text editor and access the notes later.
 
-Try it out on Heroku: https://dashboard.heroku.com/apps/code-saver-3000
+Try it out on Heroku: https://code-saver-3000.herokuapp.com/
 
 ### Installation:
 
